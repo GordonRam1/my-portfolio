@@ -137,8 +137,8 @@ h2 {
 
 #about-me h1 {
   font-size: 4vmin;
-  /* margin-top: 90px; */
-  color: #fff;
+ margin-top: 90px; 
+  color: gray;
 }
 
 #about-me p {
